@@ -8,6 +8,6 @@
 
 - 👨🏻‍💻 Currently honing Data Structures & Algorithms skills, you may find some [code and notes](https://github.com/joey66666/Algorithms).
 
-- 👀 Seeking for 2021 Summer Internship both in US & China.
+- 👀 Seeking for 2021 Summer Internship both in U.S. & China.
 
 👋🏻 Thanks for coming and have a good day~
