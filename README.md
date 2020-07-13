@@ -9,3 +9,5 @@
 👨🏻‍💻 Currently honing Data Structures & Algorithms skills.
 
 👀 Seeking for 2021 Summer Internship both in US & China.
+
+👋🏻 Thanks for coming and have a good day~
