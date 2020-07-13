@@ -6,6 +6,6 @@
 
 🌁Trying to explore the beauty of software and contribute to open source community.
 
-🏻‍Currently honing Data Structures & Algorithms skills.
+👨🏻‍💻Currently honing Data Structures & Algorithms skills.
 
 👀Seeking for 2021 Summer Internship both in US & China.
