@@ -1,6 +1,6 @@
-# Hi~ 🤪
+# Hi~ 
 
-📖 I'm a Master of Software Engineering student @UC Irvine.
+📖 Master of Software Engineering student.
 
 - 🔨 Interested in Go, Java, Python.
 
@@ -10,4 +10,4 @@
 
 - 👀 Seeking for 2021 Summer Internship both in U.S. & China.
 
-👋🏻 Thanks for coming and have a good day~
+👋🏻 Thanks for coming and have a good day.
