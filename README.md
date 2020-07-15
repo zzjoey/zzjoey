@@ -11,14 +11,13 @@
 - Interested in
 
   <code><img height="45" src="https://github.com/joey66666/joey66666/blob/master/assets/java.svg"></code>
-  <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/python.svg"></code>
+  <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/python-3.svg"></code>
   <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/go.svg"></code>
-  <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/c.svg"></code>
+  <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/swift-logo-with-text.svg"></code>
   <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/flask.svg"></code>
-  <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/ubuntu.svg"></code>
+  <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/ubuntu-1.svg"></code>
   <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/mysql.svg"></code>
-  <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/sqlite.svg"></code>
-  <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/git.svg"></code>
+  <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/git-1.svg"></code>
   <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/jwt.svg"></code>
   <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/raspberry-pi.svg"></code>
 
