@@ -17,6 +17,7 @@
   <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/flask.svg"></code>
   <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/ubuntu.svg"></code>
   <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/mysql.svg"></code>
+  <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/sqlite.svg"></code>
   <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/git.svg"></code>
   <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/jwt.svg"></code>
 
