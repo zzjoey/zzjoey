@@ -1,6 +1,6 @@
 # Hi~ 
 
-📖 Master of Software Engineering student.
+📖 I'm Joey, a Master of Software Engineering student.
 
 - 🔨 Interested in Go, Java, Python.
 
