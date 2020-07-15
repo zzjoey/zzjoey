@@ -23,4 +23,4 @@
 
 [![Joey's github stats](https://github-readme-stats-rho.vercel.app/api?username=joey66666&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/joey66666)
 
-Thanks for coming and have a good day~
+❤Thanks for coming and have a good day~
