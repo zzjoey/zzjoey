@@ -8,7 +8,7 @@
 
 - 👀 Actively seeking for 2021 Summer Internship both in U.S. & China.
 
-- Interested in
+- 💙 Interested in
 
   <code><img height="45" src="https://github.com/joey66666/joey66666/blob/master/assets/Java_logo_icon.png"></code>
   <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/python-3.svg"></code>
