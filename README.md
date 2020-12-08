@@ -6,7 +6,7 @@
 
 - 🌁 Trying to explore the beauty of software and contribute to open source community.
 
-- 👨🏻‍💻 Currently working on postgraduate courses.
+<!-- - 👨🏻‍💻 Currently working on postgraduate courses. -->
 
 - 👀 Actively seeking for 2021 Summer Internship both in U.S. & China.
 
