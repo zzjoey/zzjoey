@@ -8,7 +8,7 @@
 
 <!-- - 👨🏻‍💻 Currently working on postgraduate courses. -->
 
-- 👀 Actively seeking for 2021 Summer Internship in China.
+- 👀 Actively seeking for 2021 Summer Internship.
 
 - 💙 Interested in
 
