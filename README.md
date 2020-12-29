@@ -2,13 +2,17 @@
 
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=joey66666.visitor-badge)](https://github.com/ybhan)
 
-📖 I'm Joey, a graduate student concentrated on Computer Science & Software Engineering
+🎓 I'm Joey, a graduate student concentrated on Computer Science & Software Engineering
 
-- 🌁 Trying to explore the beauty of software and contribute to open source community.
+- ⌨️ Trying to explore the beauty of software and contribute to open source community.
 
 <!-- - 👨🏻‍💻 Currently working on postgraduate courses. -->
 
-- 👀 Actively seeking for 2021 Summer Internship.
+- 📚 Lifelong learner, 📷 photographer, 🎹 piano beginner, 🛣 fascinated with travelling. Absorbing knowledge from every corner within sight.
+
+
+
+<!-- - 👀 Actively seeking for Internship. -->
 
 - 💙 Interested in
 
