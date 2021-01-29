@@ -2,11 +2,13 @@
 
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=joey66666.visitor-badge)](https://github.com/ybhan)
 
-🎓 I'm Joey, a graduate student concentrated on Computer Science & Software Engineering
+<!-- 🎓 I'm Joey, a graduate student concentrated on Computer Science & Software Engineering -->
 
-- ⌨️ Trying to explore the beauty of software, absorb knowledge within sight, and contribute to open source community.
+<!-- - ⌨️ Trying to explore the beauty of software, absorb knowledge within sight, and contribute to open source community. -->
 
 <!-- - 👨🏻‍💻 Currently working on postgraduate courses. -->
+
+- 👨🏻‍💻 SDE Intern @bilibili, Danmaku backend. 哔哩哔哩主站弹幕后端开发
 
 - 📚 Lifelong learner, 📷 photographer, 🎹 piano beginner, 🛣 fascinated with travelling. 
 
