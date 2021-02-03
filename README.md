@@ -8,7 +8,7 @@
 
 <!-- - 👨🏻‍💻 Currently working on postgraduate courses. -->
 
-- 👨🏻‍💻 SDE Intern @bilibili, Danmaku backend. 哔哩哔哩主站弹幕后端开发
+- 👨🏻‍💻 SDE Intern @bilibili, Danmaku backend research and development. 哔哩哔哩主站弹幕后端研发
 
 - 📚 Lifelong learner, 📷 photographer, 🎹 piano beginner, 🛣 fascinated with travelling. 
 
