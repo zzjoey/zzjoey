@@ -10,7 +10,7 @@
 
 - 👨🏻‍💻 SDE Intern @bilibili, Danmaku backend research and development. 哔哩哔哩主站弹幕后端研发
 
-- 📚 Lifelong learner, 📷 photographer, 🎹 piano beginner, 🛣 fascinated with travelling. 
+- 📚 Lifelong learner, 📷 Photographer, 🎹 Piano beginner, 🛣 Fascinated with travelling
 
 
 
