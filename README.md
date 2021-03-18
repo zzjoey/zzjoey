@@ -1,6 +1,6 @@
 # Hi~ 👋🏻
 
-[![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=joey66666.visitor-badge)](https://github.com/ybhan)
+[![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=joey66666.visitor-badge)](https://github.com/joey66666)
 
 <!-- 🎓 I'm Joey, a graduate student concentrated on Computer Science & Software Engineering -->
 
