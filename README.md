@@ -25,9 +25,9 @@
   <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/go-blue.svg"></code>
   <code><img height="40" src="https://github.com/joey66666/joey66666/blob/master/assets/Swift_logo_horz_lockup_color_rgb.svg"></code>
 
-<a href="https://github.com/joey66666">
-  <img width="394" src="https://github-readme-stats-rho.vercel.app/api?username=joey66666&show_icons=true" />
+<a href="https://github.com/zzjoey">
+  <img width="394" src="https://github-readme-stats-rho.vercel.app/api?username=zzjoey&show_icons=true" />
 </a>
-<a href="https://github.com/joey66666?tab=repositories">
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey66666&layout=compact" />
+<a href="https://github.com/zzjoey?tab=repositories">
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzjoey&layout=compact" />
 </a>
