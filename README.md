@@ -2,9 +2,9 @@
 
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=joey66666.visitor-badge)](https://github.com/joey66666)
 
-- ⌨️ Trying to explore the beauty of software, absorb knowledge within sight, and contribute to open source community.
+- ⌨️ Trying to explore the beauty of software, absorb knowledge within sight, and contribute to open-source community.
 
-- 👨🏻‍💻 SDE Intern @bilibili, Gopher, Microservices developer
+- 👨🏻‍💻 SWE Intern @Tesla, ex @Bilibili, Microservices developer, Gopher
 
 <!-- - 🎓 M.S. in Software Engineering @Carnegie Mellon University (CMU) -->
 
