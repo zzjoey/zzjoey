@@ -4,7 +4,7 @@
 
 - ⌨️ Trying to explore the beauty of software, absorb knowledge within sight, and contribute to open-source community.
 
-- 👨🏻‍💻 SWE Intern @Tesla, ex @Bilibili, Microservices developer, Gopher
+- 👨🏻‍💻 SWE Intern @Tesla, ex-Bilibili, Microservices developer, Gopher
 
 <!-- - 🎓 M.S. in Software Engineering @Carnegie Mellon University (CMU) -->
 
