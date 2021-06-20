@@ -13,9 +13,10 @@
 - 💙 Interested in
 
   <code><img height="40" src="https://github.com/zzjoey/zzjoey/blob/master/assets/go-blue.svg"></code>
-  <code><img height="45" width="90" src="https://github.com/zzjoey/zzjoey/blob/master/assets/Java_logo_icon.png"></code>
+  <code><img height="50" width="90" src="https://github.com/zzjoey/zzjoey/blob/master/assets/Java_logo_icon.png"></code>
   <code><img height="40" src="https://github.com/zzjoey/zzjoey/blob/master/assets/python-3.svg"></code>
   <code><img height="40" src="https://github.com/zzjoey/zzjoey/blob/master/assets/Swift_logo_horz_lockup_color_rgb.svg"></code>
+  <code><img height="45" src="https://github.com/zzjoey/zzjoey/blob/master/assets/Node.js_logo_2015.svg"></code>
 
 <a href="https://github.com/zzjoey">
   <img width="394" src="https://github-readme-stats-rho.vercel.app/api?username=zzjoey&show_icons=true" />
