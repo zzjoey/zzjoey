@@ -6,7 +6,7 @@
 
 - 🎓 M.S. in Software Engineering @Carnegie Mellon University (CMU)
 
-- 👨🏻‍💻 Ex-Intern @Tesla, @Bilibili. Microservices developer, Gopher
+- 👨🏻‍💻 Ex-Intern @Tesla, @Bilibili. Back-end service developer concentrated on Microservices, High-availability structure with hands-on experience on the front-end
 
 <!-- - 📚 Lifelong learner, 📷 Photographer, 🎹 Piano beginner, 🛣 Fascinated with travelling -->
 
