@@ -1,26 +1,99 @@
-# Hi~ 👋🏻
+<div align="center">
+
+# 👋 Hi, I'm Joey
 
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=joey66666.visitor-badge)](https://github.com/zzjoey)
+[![stars badge](https://img.shields.io/github/stars/zzjoey?style=social)](https://github.com/zzjoey)
+[![follower badge](https://img.shields.io/github/followers/zzjoey?style=social)](https://github.com/zzjoey)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="20" />](https://www.linkedin.com/in/yongzhu-joey/)
+[<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/email.svg" alt="email" height="20" />](mailto:i@zjoey.com)
 
-- ⌨️ Trying to explore the beauty of software, absorb knowledge within sight, and contribute to open-source community
+</div>
 
-- 🎓 M.S. in Software Engineering @Carnegie Mellon University (CMU)
+👨🏻‍💻 Ex Software Engineer Intern @**[Tesla](https://www.tesla.com/)**, @**[Bilibili](https://ir.bilibili.com)**
 
-- 👨🏻‍💻 Ex-Intern @Tesla, @Bilibili. Back-end service developer concentrated on Microservices, High-availability structure with hands-on experience on the front-end
+🎓 M.S. in Software Engineering @**[Carnegie Mellon University, Silicon Valley (CMU-SV)](https://www.sv.cmu.edu/)**
+
+🚀 First-principle thinking, problem-solving orientated, driven by passion
+
+⌨️ Trying to explore the beauty of software, absorb knowledge within sight, and contribute to open-source community
 
 <!-- - 📚 Lifelong learner, 📷 Photographer, 🎹 Piano beginner, 🛣 Fascinated with travelling -->
 
-- 💙 Interested in
-
-  <code><img height="40" src="https://github.com/zzjoey/zzjoey/blob/master/assets/go-blue.svg"></code>
-  <code><img height="50" width="90" src="https://github.com/zzjoey/zzjoey/blob/master/assets/Java_logo_icon.png"></code>
-  <code><img height="40" src="https://github.com/zzjoey/zzjoey/blob/master/assets/python-3.svg"></code>
-  <code><img height="40" src="https://github.com/zzjoey/zzjoey/blob/master/assets/Swift_logo_horz_lockup_color_rgb.svg"></code>
-  <code><img height="45" src="https://github.com/zzjoey/zzjoey/blob/master/assets/Node.js_logo_2015.svg"></code>
 
 <a href="https://github.com/zzjoey">
-  <img width="394" src="https://github-readme-stats-rho.vercel.app/api?username=zzjoey&show_icons=true" />
+  <img width="433" height="171" src="https://github-readme-stats-rho.vercel.app/api?username=zzjoey&show_icons=true" />
 </a>
 <a href="https://github.com/zzjoey?tab=repositories">
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzjoey&layout=compact" />
+  <img width="362" height="171" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzjoey&layout=compact" />
 </a>
+<a href="https://github.com/zzjoey?tab=repositories">
+  <img width="433" height="171" src="https://github-readme-streak-stats.herokuapp.com/?user=zzjoey" />
+</a>
+
+
+## Experienced in
+
+### Programming Languages
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" height="60" />](https://golang.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="60" />](https://www.python.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" height="60" />](https://www.java.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" height="60" />](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" height="60" />](https://www.javascript.com/)
+[<img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" alt="swift" height="60" />](https://www.swift.com/)
+
+
+### Backend Dev & Database
+
+[<img src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.svg" alt="grpc" height="60" />](https://grpc.io/)
+[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0c3822689a6e278609fc9888bf5d89f3bdf9e6ea/icons/file_type_protobuf.svg" alt="protobuf" height="60" />](https://developers.google.com/protocol-buffers)
+[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0c3822689a6e278609fc9888bf5d89f3bdf9e6ea/icons/file_type_rest.svg" alt="rest" height="60" />](https://en.wikipedia.org/wiki/Representational_state_transfer)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" alt="redis" height="60" />](https://redis.io/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" height="60" />](https://flask.palletsprojects.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" height="60" />](https://kafka.apache.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" height="60" />](https://www.nginx.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="60" />](https://www.mysql.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" height="60" />](https://www.mongodb.com/)
+[<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" height="60" />](https://www.sqlite.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" height="60" />](https://www.sqlalchemy.org/)
+
+
+### Frontend Dev
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" height="60" />](https://en.wikipedia.org/wiki/HTML5)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" height="60" />](https://en.wikipedia.org/wiki/CSS)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" height="60" />](https://reactjs.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="60" />](https://www.npmjs.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" height="60" />](https://nodejs.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expressjs" height="60" />](https://expressjs.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" alt="socketio" height="60" />](https://socket.io/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg" alt="angular" height="60" />](https://angular.io/)
+[<img src="https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg" alt="pug" height="60" />](https://pugjs.org/)
+[<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest" height="60" />](https://jestjs.io/)
+
+
+### CI/CD & Monitoring
+
+[<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" height="60" />](https://www.elastic.co/kibana)
+[<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" height="60" />](https://www.jenkins.io/)
+[<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="60" />](https://www.docker.com/)
+[<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" height="60" />](https://www.elastic.co/kibana)
+[<img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana" height="60" />](https://grafana.com/)
+[<img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="splunk" height="60" />](https://www.splunk.com/)
+
+### Collaboration & Tools
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" height="60" />](https://www.jetbrains.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="60" />](https://code.visualstudio.com/)
+[<img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" height="60" />](https://developer.apple.com/xcode/)
+[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="60" />](https://www.postman.com/)
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="60" />](https://git-scm.com/)
+[<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" height="60" />](https://www.gitlab.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" height="60" />](https://bitbucket.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" alt="confluence" height="60" />](https://www.atlassian.com/software/confluence)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="60" />](https://www.linux.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" height="60" />](https://www.mysql.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" height="60" />](https://en.wikipedia.org/wiki/Markdown)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" height="60" />](https://www.atlassian.com/software/jira)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" />](https://www.raspberrypi.org/)
