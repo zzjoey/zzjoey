@@ -22,7 +22,7 @@
 
 
 <a href="https://github.com/zzjoey">
-  <img width="433" height="171" src="https://github-readme-stats-rho.vercel.app/api?username=zzjoey&show_icons=true" />
+  <img width="433" height="171" src="https://github-readme-stats.vercel.app/api?username=zzjoey&show_icons=true" />
 </a>
 <a href="https://github.com/zzjoey?tab=repositories">
   <img width="362" height="171" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzjoey&layout=compact" />
