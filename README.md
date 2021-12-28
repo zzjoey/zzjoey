@@ -5,12 +5,13 @@
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=joey66666.visitor-badge)](https://github.com/zzjoey)
 [![stars badge](https://img.shields.io/github/stars/zzjoey?style=social)](https://github.com/zzjoey)
 [![follower badge](https://img.shields.io/github/followers/zzjoey?style=social)](https://github.com/zzjoey)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="20" />](https://www.linkedin.com/in/yongzhu-joey/)
 [<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/email.svg" alt="email" height="20" />](mailto:i@zjoey.com)
+<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="20" />](https://www.linkedin.com/in/yongzhu-joey/) -->
+
 
 </div>
 
-👨🏻‍💻 Ex Software Engineer Intern @**[Tesla](https://www.tesla.com/)**, @**[Bilibili](https://ir.bilibili.com)**
+<!-- 👨🏻‍💻 Ex Software Engineer Intern @**[Tesla](https://www.tesla.com/)**, @**[Bilibili](https://ir.bilibili.com)** -->
 
 🎓 M.S. in Software Engineering @**[Carnegie Mellon University, Silicon Valley (CMU-SV)](https://www.sv.cmu.edu/)**
 
