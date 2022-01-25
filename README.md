@@ -13,13 +13,13 @@
 
 <!-- 👨🏻‍💻 Ex Software Engineer Intern @**[Tesla](https://www.tesla.com/)**, @**[Bilibili](https://ir.bilibili.com)** -->
 
-🎓 M.S. in Software Engineering @**[Carnegie Mellon University, Silicon Valley (CMU-SV)](https://www.sv.cmu.edu/)**
+<!-- 🎓 M.S. in Software Engineering @**[Carnegie Mellon University, Silicon Valley (CMU-SV)](https://www.sv.cmu.edu/)** -->
 
 🚀 First-principle thinking, problem-solving orientated, driven by passion
 
 ⌨️ Trying to explore the beauty of software, absorb knowledge within sight, and contribute to open-source community
 
-<!-- - 📚 Lifelong learner, 📷 Photographer, 🎹 Piano beginner, 🛣 Fascinated with travelling -->
+📚 Lifelong learner, 📷 Photographer, 🛣 Fascinated with travelling
 
 
 <a href="https://github.com/zzjoey">
