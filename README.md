@@ -11,9 +11,9 @@
 
 </div>
 
-<!-- 👨🏻‍💻 Ex Software Engineer Intern @**[Tesla](https://www.tesla.com/)**, @**[Bilibili](https://ir.bilibili.com)** -->
+👨🏻‍💻 Software Engineer Intern **[@Google](https://www.google.com/)**, Ex-**[@Tesla](https://www.tesla.com/)**, **[@Bilibili](https://ir.bilibili.com)**
 
-<!-- 🎓 M.S. in Software Engineering @**[Carnegie Mellon University, Silicon Valley (CMU-SV)](https://www.sv.cmu.edu/)** -->
+🎓 M.S. in Software Engineering @**[Carnegie Mellon University, Silicon Valley (CMU-SV)](https://www.sv.cmu.edu/)**
 
 🚀 First-principle thinking, problem-solving orientated, driven by passion
 
