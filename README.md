@@ -11,8 +11,10 @@
 </div>
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" alt="google" width="140" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="140"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="80"/>
+  <img src="https://www.vectorlogo.zone/logos/google/google-ar21.svg" alt="google" width="140" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gcp" width="140"/>
+  <img src="https://github.com/zzjoey/zzjoey/blob/master/assets/gce-logo.png?raw=true" alt="gce" width="160"/>
 </div>
 
 👨🏻‍💻 Software Engineer Intern **[@Google](https://www.google.com/)**, Ex-**[@Tesla](https://www.tesla.com/)**, **[@Bilibili](https://ir.bilibili.com)**
@@ -52,15 +54,15 @@
 
 ### Backend Dev & Database
 
-[<img src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.svg" alt="grpc" height="60" />](https://grpc.io/)
+[<img src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.svg" alt="grpc" height="50" />](https://grpc.io/)
 [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0c3822689a6e278609fc9888bf5d89f3bdf9e6ea/icons/file_type_protobuf.svg" alt="protobuf" height="60" />](https://developers.google.com/protocol-buffers)
 [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0c3822689a6e278609fc9888bf5d89f3bdf9e6ea/icons/file_type_rest.svg" alt="rest" height="60" />](https://en.wikipedia.org/wiki/Representational_state_transfer)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" alt="redis" height="60" />](https://redis.io/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" height="60" />](https://flask.palletsprojects.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" height="60" />](https://kafka.apache.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" height="60" />](https://www.nginx.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="60" />](https://www.mysql.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" height="60" />](https://www.mongodb.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" height="70" />](https://flask.palletsprojects.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" height="70" />](https://kafka.apache.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" height="70" />](https://www.nginx.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="70" />](https://www.mysql.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" height="70" />](https://www.mongodb.com/)
 [<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" height="60" />](https://www.sqlite.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" height="60" />](https://www.sqlalchemy.org/)
 
@@ -81,6 +83,7 @@
 
 ### CI/CD & Monitoring
 
+[<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="circleci" height="60" />](https://www.circleci.com/)
 [<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" height="60" />](https://www.elastic.co/kibana)
 [<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" height="60" />](https://www.jenkins.io/)
 [<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="60" />](https://www.docker.com/)
@@ -98,8 +101,8 @@
 [<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" height="60" />](https://www.gitlab.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" height="60" />](https://bitbucket.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" alt="confluence" height="60" />](https://www.atlassian.com/software/confluence)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" height="60" />](https://www.atlassian.com/software/jira)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="60" />](https://www.linux.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" height="60" />](https://www.mysql.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" height="60" />](https://en.wikipedia.org/wiki/Markdown)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" height="60" />](https://www.atlassian.com/software/jira)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" />](https://www.raspberrypi.org/)
