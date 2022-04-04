@@ -62,6 +62,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" height="70" />](https://kafka.apache.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" height="70" />](https://www.nginx.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="70" />](https://www.mysql.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" height="70" />](https://www.microsoft.com/en-us/sql-server)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" height="70" />](https://www.mongodb.com/)
 [<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" height="60" />](https://www.sqlite.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" height="60" />](https://www.sqlalchemy.org/)
