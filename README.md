@@ -33,7 +33,7 @@
   <img width="362" height="171" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzjoey&layout=compact" />
 </a>
 <a href="https://github.com/zzjoey?tab=repositories">
-  <img width="433" height="171" src="https://github-readme-streak-stats.herokuapp.com/?user=zzjoey" />
+  <img width="433" height="171" src="http://github-readme-streak-stats.herokuapp.com?user=zzjoey&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 
 
