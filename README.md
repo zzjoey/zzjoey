@@ -6,9 +6,13 @@
 [![stars badge](https://img.shields.io/github/stars/zzjoey?style=social)](https://github.com/zzjoey)
 [![follower badge](https://img.shields.io/github/followers/zzjoey?style=social)](https://github.com/zzjoey)
 [<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/email.svg" alt="email" height="20" />](mailto:i@zjoey.com)
-<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="20" />](https://www.linkedin.com/in/yongzhu-joey/) -->
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" />](https://www.linkedin.com/in/yongzhu-joey/)
 
+</div>
 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" alt="google" width="140" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="140"/>
 </div>
 
 👨🏻‍💻 Software Engineer Intern **[@Google](https://www.google.com/)**, Ex-**[@Tesla](https://www.tesla.com/)**, **[@Bilibili](https://ir.bilibili.com)**
@@ -42,6 +46,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" height="60" />](https://www.java.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" height="60" />](https://en.wikipedia.org/wiki/C_(programming_language))
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" height="60" />](https://www.javascript.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" height="60" />](https://www.typescriptlang.org/)
 [<img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" alt="swift" height="60" />](https://www.swift.com/)
 
 
