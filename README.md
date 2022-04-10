@@ -92,7 +92,7 @@
 [<img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana" height="60" />](https://grafana.com/)
 [<img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="splunk" height="60" />](https://www.splunk.com/)
 
-### Collaboration & Tools
+### Collaboration, Documentation & Tools
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" height="60" />](https://www.jetbrains.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="60" />](https://code.visualstudio.com/)
@@ -107,3 +107,4 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" height="60" />](https://www.mysql.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" height="60" />](https://en.wikipedia.org/wiki/Markdown)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" />](https://www.raspberrypi.org/)
+[<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/swagger.svg" alt="swagger" height="60" />](https://swagger.io/)
