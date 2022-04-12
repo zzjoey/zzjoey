@@ -21,7 +21,7 @@
 
 🎓 M.S. in Software Engineering @**[Carnegie Mellon University, Silicon Valley (CMU-SV)](https://www.sv.cmu.edu/)**
 
-🚀 First-principle thinking, problem-solving orientated, driven by passion
+🚀 Fan of Elegant Softwarem, First-principle Thinking, Problem-solving Orientated, Driven By Passion
 
 ⌨️ Trying to explore the beauty of software, absorb knowledge within sight, and contribute to open-source community
 
