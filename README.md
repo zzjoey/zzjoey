@@ -21,7 +21,7 @@
 
 🎓 M.S. in Software Engineering @**[Carnegie Mellon University, Silicon Valley (CMU-SV)](https://www.sv.cmu.edu/)**
 
-🚀 Fan of Elegant Softwarem, First-principle Thinking, Problem-solving Orientated, Driven By Passion
+💡 Fan of Elegant Softwarem, First Principles Thinking, Solution Orientated
 
 ⌨️ Trying to explore the beauty of software, absorb knowledge within sight, and contribute to open-source community
 
@@ -40,6 +40,7 @@
 
 
 ## Experienced in
+
 
 ### Programming Languages
 
@@ -91,6 +92,7 @@
 [<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" height="60" />](https://www.elastic.co/kibana)
 [<img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana" height="60" />](https://grafana.com/)
 [<img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="splunk" height="60" />](https://www.splunk.com/)
+
 
 ### Collaboration, Documentation & Tools
 
