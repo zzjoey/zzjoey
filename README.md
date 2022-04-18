@@ -6,7 +6,7 @@
 [![stars badge](https://img.shields.io/github/stars/zzjoey?style=social)](https://github.com/zzjoey)
 [![follower badge](https://img.shields.io/github/followers/zzjoey?style=social)](https://github.com/zzjoey)
 [<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/email.svg" alt="email" height="20" />](mailto:i@zjoey.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" />](https://www.linkedin.com/in/yongzhu-joey/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" />](https://www.linkedin.com/in/zzjoey/)
 
 </div>
 
