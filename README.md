@@ -8,14 +8,10 @@
 [<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/email.svg" alt="email" height="20" />](mailto:i@zjoey.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" />](https://www.linkedin.com/in/zzjoey/)
 
+<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/gcp_header1.png?raw=true" alt="gcp" width="78%"/>
+
 </div>
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="80"/>
-  <img src="https://www.vectorlogo.zone/logos/google/google-ar21.svg" alt="google" width="140" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gcp" width="140"/>
-  <img src="https://github.com/zzjoey/zzjoey/blob/master/assets/gce-logo.png?raw=true" alt="gce" width="160"/>
-</div>
 
 👨🏻‍💻 Software Engineer Intern **[@Google](https://www.google.com/)**, Ex-**[@Tesla](https://www.tesla.com/)**, **[@Bilibili](https://ir.bilibili.com)**
 
@@ -38,9 +34,16 @@
   <img width="433" height="171" src="http://github-readme-streak-stats.herokuapp.com?user=zzjoey&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 
+## Work with
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="80"/>
+  <img src="https://www.vectorlogo.zone/logos/google/google-ar21.svg" alt="google" width="140" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gcp" width="140"/>
+  <img src="https://github.com/zzjoey/zzjoey/blob/master/assets/gce-logo.png?raw=true" alt="gce" width="160"/>
+</div>
 
 ## Experienced in
-
 
 ### Programming Languages
 
@@ -110,3 +113,5 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" height="60" />](https://en.wikipedia.org/wiki/Markdown)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" />](https://www.raspberrypi.org/)
 [<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/swagger.svg" alt="swagger" height="60" />](https://swagger.io/)
+
+
