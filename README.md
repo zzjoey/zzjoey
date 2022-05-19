@@ -8,12 +8,12 @@
 [<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/email.svg" alt="email" height="20" />](mailto:i@zjoey.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" />](https://www.linkedin.com/in/zzjoey/)
 
-<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/gcp_header1.png?raw=true" alt="gcp" width="78%"/>
+<!-- <img src="https://github.com/zzjoey/zzjoey/blob/master/assets/gcp_header1.png?raw=true" alt="gcp" width="78%"/> -->
 
 </div>
 
 
-👨🏻‍💻 Software Engineer Intern **[@Google](https://www.google.com/)**, Ex-**[@Tesla](https://www.tesla.com/)**, **[@Bilibili](https://ir.bilibili.com)**
+<!-- 👨🏻‍💻 Software Engineer Intern **[@Google](https://www.google.com/)**, Ex-**[@Tesla](https://www.tesla.com/)**, **[@Bilibili](https://ir.bilibili.com)** -->
 
 🎓 M.S. in Software Engineering @**[Carnegie Mellon University, Silicon Valley (CMU-SV)](https://www.sv.cmu.edu/)**
 
