@@ -17,11 +17,13 @@
 
 🎓 M.S. in Software Engineering @**[Carnegie Mellon University, Silicon Valley (CMU-SV)](https://www.sv.cmu.edu/)**
 
-💡 Fan of Elegant Software, First Principles Thinking, Solution Orientated
+⌨️ Software Engineer Intern @**[Google](https://cloud.google.com/)**, Ex-**[Tesla](https://www.tesla.com/)**
+
+<!--💡 Fan of Elegant Software, First Principles Thinking, Solution Orientated
 
 ⌨️ Trying to explore the beauty of software, absorb knowledge within sight, and contribute to open-source community
 
-📚 Lifelong learner, 📷 Photographer, 🛣 Fascinated with travelling
+📚 Lifelong learner, 📷 Photographer, 🛣 Fascinated with travelling -->
 
 
 <a href="https://github.com/zzjoey">
