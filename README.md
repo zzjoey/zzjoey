@@ -113,7 +113,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="60" />](https://www.linux.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" height="60" />](https://www.mysql.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" height="60" />](https://en.wikipedia.org/wiki/Markdown)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" />](https://www.raspberrypi.org/)
+<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" />](https://www.raspberrypi.org/) -->
 [<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/swagger.svg" alt="swagger" height="60" />](https://swagger.io/)
 
 
