@@ -121,4 +121,4 @@
 **Never settle for the best
 没有最好，只有更好**
 
-<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/Google_all_in_2.png?raw=true" alt="all_in" width="60%"/>
+<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/Google_all_in_2.png?raw=true" alt="all_in" width="70%"/>
