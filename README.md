@@ -39,10 +39,10 @@
 ## Work with
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="80"/>
-  <img src="https://www.vectorlogo.zone/logos/google/google-ar21.svg" alt="google" width="140" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gcp" width="140"/>
-  <img src="https://github.com/zzjoey/zzjoey/blob/master/assets/gce-logo.png?raw=true" alt="gce" width="160"/>
+  <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="80"/></a>
+  <a href="https://about.google/"><img src="https://www.vectorlogo.zone/logos/google/google-ar21.svg" alt="google" width="140" /></a>
+  <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gcp" width="140"/></a>
+  <a href="https://cloud.google.com/compute"><img src="https://github.com/zzjoey/zzjoey/blob/master/assets/gce-logo.png?raw=true" alt="gce" width="160"/></a>
 </div>
 
 ## Experienced in
