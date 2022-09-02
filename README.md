@@ -94,8 +94,8 @@
 [<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest" height="60" />](https://jestjs.io/)
 
 
-### CI/CD & Monitoring
-
+### CI/CD
+[<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" height="60" />](https://www.terraform.io/)
 [<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="circleci" height="60" />](https://www.circleci.com/)
 [<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" height="60" />](https://www.elastic.co/kibana)
 [<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" height="60" />](https://www.jenkins.io/)
