@@ -36,6 +36,7 @@
   <img width="433" height="171" src="http://github-readme-streak-stats.herokuapp.com?user=zzjoey&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 
+<!--
 ## Work with
 
 <div>
@@ -44,6 +45,7 @@
   <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gcp" width="140"/></a>
   <a href="https://cloud.google.com/compute"><img src="https://github.com/zzjoey/zzjoey/blob/master/assets/gce-logo.png?raw=true" alt="gce" width="160"/></a>
 </div>
+-->
 
 ## Experienced in
 
@@ -58,9 +60,13 @@
 [<img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" alt="swift" height="60" />](https://www.swift.com/)
 
 
-### Backend Dev & Database
+### Cloud Platform & Backend Dev
 
-[<img src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.svg" alt="grpc" height="50" />](https://grpc.io/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" height="45">](https://aws.amazon.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="azure" height="45">](https://azure.microsoft.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="gcp" height="40">](https://cloud.google.com/)
+
+[<img src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.svg" alt="grpc" height="45" />](https://grpc.io/)
 [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0c3822689a6e278609fc9888bf5d89f3bdf9e6ea/icons/file_type_protobuf.svg" alt="protobuf" height="60" />](https://developers.google.com/protocol-buffers)
 [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0c3822689a6e278609fc9888bf5d89f3bdf9e6ea/icons/file_type_rest.svg" alt="rest" height="60" />](https://en.wikipedia.org/wiki/Representational_state_transfer)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" alt="redis" height="60" />](https://redis.io/)
