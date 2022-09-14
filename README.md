@@ -124,7 +124,6 @@
 
 ### All In
 
-**Never settle for the best
-没有最好，只有更好**
+**[All In, with Google.](https://all-in.withgoogle.com/) Make life easier, better, more enjoyable with our deliverables.**
 
 <img src="https://github.com/zzjoey/zzjoey/blob/master/assets/Google_all_in_2.png?raw=true" alt="all_in" width="70%"/>
