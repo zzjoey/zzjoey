@@ -78,6 +78,18 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" height="70" />](https://www.mongodb.com/)
 [<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" height="60" />](https://www.sqlite.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" height="60" />](https://www.sqlalchemy.org/)
+[<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" alt="hadoop" height="60" />](https://hadoop.apache.org/)
+[<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" height="60" />](https://spark.apache.org/)
+
+### CI/CD, Monitorning & Logging
+[<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="circleci" height="60" />](https://www.circleci.com/)
+[<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" height="60" />](https://www.terraform.io/)
+[<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="60" />](https://www.docker.com/)
+[<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="k8s" height="60" />](https://kubernetes.io/)
+[<img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" height="60" />](https://helm.sh/)
+[<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" height="60" />](https://www.elastic.co/kibana)
+[<img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="splunk" height="60" />](https://www.splunk.com/)
+[<img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana" height="60" />](https://grafana.com/)
 
 
 ### Frontend Dev
@@ -92,17 +104,6 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg" alt="angular" height="60" />](https://angular.io/)
 [<img src="https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg" alt="pug" height="60" />](https://pugjs.org/)
 [<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest" height="60" />](https://jestjs.io/)
-
-
-### CI/CD
-[<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" height="60" />](https://www.terraform.io/)
-[<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="circleci" height="60" />](https://www.circleci.com/)
-[<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" height="60" />](https://www.elastic.co/kibana)
-[<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" height="60" />](https://www.jenkins.io/)
-[<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="60" />](https://www.docker.com/)
-[<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" height="60" />](https://www.elastic.co/kibana)
-[<img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana" height="60" />](https://grafana.com/)
-[<img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="splunk" height="60" />](https://www.splunk.com/)
 
 
 ### Collaboration, Documentation & Tools
