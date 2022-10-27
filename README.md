@@ -15,16 +15,15 @@
 
 <!-- 👨🏻‍💻 Software Engineer Intern **[@Google](https://www.google.com/)**, @**[@Tesla](https://www.tesla.com/)**, **[@Bilibili](https://ir.bilibili.com)** -->
 
-🎓 M.S. in Software Engineering @**[Carnegie Mellon University, Silicon Valley (CMU-SV)](https://www.sv.cmu.edu/)**
+<!-- 🎓 M.S. in Software Engineering @**[Carnegie Mellon University, Silicon Valley (CMU-SV)](https://www.sv.cmu.edu/)** -->
 
-⌨️ Software Engineer Intern @**[Google](https://cloud.google.com/)**, @**[Tesla](https://www.tesla.com/)**
+<!-- ⌨️ Software Engineer Intern @**[Google](https://cloud.google.com/)**, @**[Tesla](https://www.tesla.com/)** -->
 
 <!--💡 Fan of Elegant Software, First Principles Thinking, Solution Orientated
 
-⌨️ Trying to explore the beauty of software, absorb knowledge within sight, and contribute to open-source community
+<!-- ⌨️ Trying to explore the beauty of software, absorb knowledge within sight, and contribute to open-source community -->
 
-📚 Lifelong learner, 📷 Photographer, 🛣 Fascinated with travelling -->
-
+<!-- 📚 Lifelong learner, 📷 Photographer, 🛣 Fascinated with travelling -->
 
 <a href="https://github.com/zzjoey">
   <img width="433" height="171" src="https://github-readme-stats.vercel.app/api?username=zzjoey&show_icons=true" />
