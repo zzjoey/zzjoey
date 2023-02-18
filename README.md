@@ -28,9 +28,9 @@
 <a href="https://github.com/zzjoey">
   <img width="433" height="171" src="https://github-readme-stats.vercel.app/api?username=zzjoey&show_icons=true" />
 </a>
-<a href="https://github.com/zzjoey?tab=repositories">
-  <img width="362" height="171" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzjoey&layout=compact" />
-</a>
+<!-- <a href="https://github.com/zzjoey?tab=repositories">
+  <img width="333" height="171" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzjoey&layout=compact" />
+</a> -->
 <a href="https://github.com/zzjoey?tab=repositories">
   <img width="433" height="171" src="http://github-readme-streak-stats.herokuapp.com?user=zzjoey&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
@@ -124,8 +124,8 @@
 [<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/swagger.svg" alt="swagger" height="60" />](https://swagger.io/)
 <!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="60" />](https://www.raspberrypi.org/) -->
 
-<!-- ### All In -->
+### All In
 
-<!-- **[All In, with Google.](https://all-in.withgoogle.com/) Make life easier, better, more enjoyable with our deliverables.** -->
+**[All In, with Google.](https://all-in.withgoogle.com/) Make life easier, better, more enjoyable with our deliverables.**
 
-<!-- <img src="https://github.com/zzjoey/zzjoey/blob/master/assets/Google_all_in_2.png?raw=true" alt="all_in" width="70%"/> -->
+<img src="https://github.com/zzjoey/zzjoey/blob/master/assets/Google_all_in_2.png?raw=true" alt="all_in" width="70%"/>
