@@ -26,13 +26,13 @@
 <!-- 📚 Lifelong learner, 📷 Photographer, 🛣 Fascinated with travelling -->
 
 <a href="https://github.com/zzjoey">
-  <img width="433" height="171" src="https://github-readme-stats.vercel.app/api?username=zzjoey&show_icons=true" />
+  <img width="333" src="https://github-readme-stats.vercel.app/api?username=zzjoey&show_icons=true" />
 </a>
 <!-- <a href="https://github.com/zzjoey?tab=repositories">
   <img width="333" height="171" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzjoey&layout=compact" />
 </a> -->
 <a href="https://github.com/zzjoey?tab=repositories">
-  <img width="423" height="171" src="http://github-readme-streak-stats.herokuapp.com?user=zzjoey&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="333" src="http://github-readme-streak-stats.herokuapp.com?user=zzjoey&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 
 <!--
