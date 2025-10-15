@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joey Zhu
+# 👋 Hi, I'm Joey
 
 🚀 **Engineer | CTO | 2x Founder | Ex-Google | Visionary Startup Builder**
 
