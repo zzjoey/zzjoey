@@ -19,16 +19,22 @@ I’m an experienced full-stack and AI engineer passionate about building produc
 
 ### 🛠️ Tech Stack
 
-**Languages**  
-`Python` `TypeScript` `JavaScript` `Go` `C++`
+#### **Core Languages**
+`Python` `TypeScript` `JavaScript` `Go`
 
-**Frameworks & Tools**  
-`React` `FastAPI` `Next.js` `Supabase` `PostgreSQL` `Docker` `Redis`
+#### **Frameworks & Tools**
+`React` `Next.js` `FastAPI` `Supabase` `PostgreSQL` `NoSQL` `Redis` `Docker`
 
-**AI / ML**  
-`OpenAI API` `LangChain` `Pinecone` `LlamaIndex` `Vector DBs`
+#### **AI / LLM Stack**
+`LangChain` `LangGraph` `LlamaIndex` `Ollama` `RAG`
 
-**Cloud & DevOps**  
+#### **Agentic / Orchestration Layer**
+`Sub-agents` `Multi-agent coordination` `MCP`
+
+#### **AI Coding & Workflow Automation**
+`Claude Code` `Codex` `Gemini` `Cursor` `Trae`
+
+#### **Cloud & DevOps**
 `AWS` `GCP` `Railway` `Vercel` `Cloudflare`
 
 ---
