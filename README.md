@@ -3,7 +3,6 @@
 🚀 **Engineer | CTO | 2x Founder | Ex-Google | Visionary Startup Builder**
 
 I’m an experienced full-stack and AI engineer passionate about building products that scale.  
-Currently building **Oblex**, where we’re creating **AI employees that handle real work**, starting with contract review.
 
 ---
 
