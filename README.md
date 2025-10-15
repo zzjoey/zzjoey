@@ -8,11 +8,11 @@ I’m an experienced full-stack and AI engineer passionate about building produc
 
 ### 🧠 About Me
 
-- 🧩 **Ex-Google & Tesla engineer** — worked on large-scale distributed systems and product engineering  
-- 🧭 **CTO & Co-founder** — led teams from zero to product-market fit, focusing on speed and quality  
-- 🌟 **Visionary startup builder** — drive product vision, align tech strategy with business outcomes, and scale teams & systems rapidly  
-- ⚙️ **Full-stack & AI expertise** — from backend architecture to frontend design to LLM integrations  
-- 🔁 **10x builder mindset** — rapid iteration, strong product intuition, and love for automation  
+- 🧩 **Ex-Google & Tesla engineer**: worked on large-scale distributed systems and product engineering  
+- 🧭 **CTO & Co-Founder**: led teams from zero to product-market fit, focusing on speed and quality  
+- 🌟 **Visionary startup builder**: drive product vision, align tech strategy with business outcomes, and scale teams & systems rapidly  
+- ⚙️ **Full-stack & AI expertise**: from backend architecture to frontend design to LLM integrations  
+- 🔁 **10x builder mindset**: rapid iteration, strong product intuition, and love for automation  
 - 💡 Interested in: **AI agents**, **product-led growth**, and **developer tools**
 
 ---
