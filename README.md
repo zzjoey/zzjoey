@@ -12,6 +12,8 @@ I'm also a **serial startup founder**, having built teams, technology, and produ
 
 I served at 2 startups as Co-Founder / CTO. My tech skills including Frontend: React, Next.js, Mobile: React Native, Swift, Backend: Go, Python, Architecture: Microservices, Distributed Systems, AI: LLMs, RAG, LangGraph, Agentic Systems, Context Engineering, etc. 
 
+My experience ranges from building focused, vertical AI RAG systems to designing and architecturing large-scale distributed systems serving over 200 million DAU (daily active user).
+
 ### Business
 
 Through my startup journey, I've become increasingly interested in the philosophy behind **product, business, and humanity**. As [Steve Jobs said](https://www.youtube.com/watch?v=KlI1MR-qNt8), *“It’s technology married with liberal arts and married with the humanities that yields results that make our hearts sing.”*
@@ -21,7 +23,7 @@ I also read a lot from [Paul Graham's blog](https://www.paulgraham.com/articles.
 ### My Equation
 
 For a company: **Success = Team + Product + Customers + Funding + (Luck) = Revenue + Impact**  
-For a human: **Success = Determination + Resilient + Discernment + Execution + (Luck) = Happiness**
+For a human: **Success = Determination + Resilient + Discernment + Execution + (Luck) = Achievements + Happiness**
 
 I’m still learning - and exploring - what it truly takes to build a great company, and a great life.
 
