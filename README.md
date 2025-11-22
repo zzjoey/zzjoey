@@ -18,7 +18,7 @@ My experience ranges from building focused, vertical AI RAG systems to designing
 
 Through my startup journey, I've become increasingly interested in the philosophy behind **product, business, and humanity**. As [Steve Jobs said](https://www.youtube.com/watch?v=KlI1MR-qNt8), *“It’s technology married with liberal arts and married with the humanities that yields results that make our hearts sing.”*
 
-I also read a lot from [Paul Graham's blog](https://www.paulgraham.com/articles.html), a few essays I can resonate like [You Weren't Meant to Have a Boss](https://www.paulgraham.com/boss.html), [How to Do Great Work](https://www.paulgraham.com/greatwork.html), [Founder Mode](https://www.paulgraham.com/foundermode.html). In my point of view, sucess can be break down into **philosophy** and **methods**, and there's a clear path linking both.
+I also read a lot from [Paul Graham's blog](https://www.paulgraham.com/articles.html), a few essays I can resonate like [You Weren't Meant to Have a Boss](https://www.paulgraham.com/boss.html), [How to Do Great Work](https://www.paulgraham.com/greatwork.html), [Founder Mode](https://www.paulgraham.com/foundermode.html). In my point of view, success can be break down into **philosophy** and **methods**, and there's a clear path linking both.
 
 ### My Equation
 
