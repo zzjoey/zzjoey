@@ -22,7 +22,7 @@ I also read a lot from [Paul Graham's blog](https://www.paulgraham.com/articles.
 
 ### My Equation
 
-For a company: **Success = Team + Product + Customers + Funding + (Luck) = Revenue + Impact**  
+For a company: **Success = Team + Product + Customers + (Funding) + (Luck) = Revenue + Impact**  
 For a human: **Success = Determination + Resilient + Discernment + Execution + (Luck) = Achievements + Happiness**
 
 I’m still learning - and exploring - what it truly takes to build a great company, and a great life.
