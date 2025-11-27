@@ -6,7 +6,7 @@
 
 I graduated from **Carnegie Mellon University** major in Software Engineering, and have spent years as a developer, including four years studying, working, and living in **Silicon Valley**. My past experience includes engineering roles at companies such as **Bilibili**, **Tesla**, and **Google**.
 
-I'm also a **serial startup founder**, having built teams, technology, and product from 0→1, and led fundraising. My most recent company was accepted into one of the **world’s most selective accelerators** (acceptance rate < 0.1%, ~35 out of 35,000+ per year).
+I'm also a **serial startup founder**, having built teams, technology, and product from 0→1, and led fundraising. My previous company was accepted into one of the **world’s most selective accelerators** (acceptance rate < 0.1%, ~35 out of 35,000+ per year).
 
 ### Tech
 
