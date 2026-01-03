@@ -1,6 +1,8 @@
 # Joey
 
-[LinkedIn](https://www.linkedin.com/in/zzjoey/), [Email](mailto:zzjoeyyy@gmail.com)
+[![LinkedIn zzjoey](https://img.shields.io/badge/LinkedIn-zzjoey-blue.svg?style=for-the-badge&link=https://www.linkedin.com/in/zzjoey/)](https://www.linkedin.com/in/zzjoey/)
+[![Email zzjoeyyy@gmail.com](https://img.shields.io/badge/Email-@gmail.com-red.svg?style=for-the-badge&logo=gmail&link=mailto:zzjoeyyy@gmail.com)](mailto:zzjoeyyy@gmail.com)
+
 
 ## Sitting at the intersection of **technology and business**, focus on building great **products**.
 
@@ -30,3 +32,4 @@ For a human: **Success = Determination + Resilient + Discernment + Execution + (
 I’m still learning - and exploring - what it truly takes to build a great company, and a great life.
 
 <img src="https://github.com/zzjoey/zzjoey/blob/master/assets/Google_all_in_2.png?raw=true" alt="all_in" width="70%"/>
+
