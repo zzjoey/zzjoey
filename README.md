@@ -7,11 +7,7 @@
 
 ## Sitting at the intersection of **technology and business**, focus on building great **products**.
 
-Hi I'm Joey, Co-Founder at an industry-defining high-growth startup. We want to reinvent a traditional high-margin industry with AI.
-
-I graduated from **Carnegie Mellon University** major in Software Engineering, and have spent years as a developer, including four years studying, working, and living in **Silicon Valley**. My past experience includes engineering roles at companies such as **Bilibili**, **Tesla**, and **Google**.
-
-I'm also a **serial startup founder**, served at 2 startups as Co-Founder / CTO before my current company. I have built teams, technology, and product from 0→1, and led fundraising. My previous company was accepted into one of the **world’s most selective accelerators** (acceptance rate < 0.1%, ~35 out of 35,000+ per year).
+Hi I'm Joey, a **serial startup founder**, served at 2 startups as Co-Founder / CTO before my current company. I have built teams, technology, and product from 0→1, and led fundraising. My previous company was accepted into one of the **world’s most selective accelerators** (acceptance rate < 0.1%, ~35 out of 35,000+ per year).
 
 ### Tech
 
@@ -33,5 +29,6 @@ For a human: **Success = Determination + Resilient + Discernment + Execution + (
 I’m still learning - and exploring - what it truly takes to build a great company, and a great life.
 
 <img src="https://github.com/zzjoey/zzjoey/blob/master/assets/Google_all_in_2.png?raw=true" alt="all_in" width="70%"/>
+
 
 
