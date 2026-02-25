@@ -8,12 +8,16 @@
 
 <table>
   <tr>
-    <td width="64"><a href="https://github.com/zzjoey/ZoneMap"><img src="https://raw.githubusercontent.com/zzjoey/ZoneMap/main/public/logo.png" width="52" height="52" style="border-radius:12px"/></a></td>
-    <td><strong><a href="https://github.com/zzjoey/ZoneMap">ZoneMap</a></strong> &nbsp;·&nbsp; <a href="https://zonemap.live">zonemap.live</a><br/>Free world clock and timezone converter</td>
+    <td width="60"><a href="https://github.com/zzjoey/ZoneMap"><img src="https://raw.githubusercontent.com/zzjoey/ZoneMap/main/public/logo.png" width="48" height="48"/></a></td>
+    <td><a href="https://github.com/zzjoey/ZoneMap"><strong>ZoneMap</strong></a></td>
+    <td><a href="https://zonemap.live">zonemap.live</a></td>
+    <td>Free world clock and timezone converter</td>
   </tr>
   <tr>
-    <td width="64"><a href="https://github.com/zzjoey/DownXV"><img src="https://raw.githubusercontent.com/zzjoey/DownXV/main/assets/logo.png" width="52" height="52" style="border-radius:12px"/></a></td>
-    <td><strong><a href="https://github.com/zzjoey/DownXV">DownXV</a></strong> &nbsp;·&nbsp; <a href="https://downxv.zzjoey.com">downxv.zzjoey.com</a><br/>MacOS app to download X videos, auto-fill cookie</td>
+    <td width="60"><a href="https://github.com/zzjoey/DownXV"><img src="https://raw.githubusercontent.com/zzjoey/DownXV/main/assets/logo.png" width="48" height="48"/></a></td>
+    <td><a href="https://github.com/zzjoey/DownXV"><strong>DownXV</strong></a></td>
+    <td><a href="https://downxv.zzjoey.com">downxv.zzjoey.com</a></td>
+    <td>MacOS app to download X videos, auto-fill cookie</td>
   </tr>
 </table>
 
