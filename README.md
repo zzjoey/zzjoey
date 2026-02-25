@@ -17,7 +17,7 @@
     <td width="60"><a href="https://github.com/zzjoey/DownXV"><img src="https://raw.githubusercontent.com/zzjoey/DownXV/main/assets/logo.png" width="48" height="48"/></a></td>
     <td><a href="https://github.com/zzjoey/DownXV"><strong>DownXV</strong></a></td>
     <td><a href="https://downxv.zzjoey.com">downxv.zzjoey.com</a></td>
-    <td>MacOS app to download X videos, auto-fill cookie</td>
+    <td>MacOS app to download X videos in post</td>
   </tr>
 </table>
 
