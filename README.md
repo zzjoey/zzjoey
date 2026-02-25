@@ -4,6 +4,18 @@
 [![Email zzjoeyyy@gmail.com](https://img.shields.io/badge/Email-@gmail.com-red.svg?style=for-the-badge&logo=gmail&link=mailto:zzjoeyyy@gmail.com)](mailto:zzjoeyyy@gmail.com)
 [![Blog zzjoey.com](https://img.shields.io/badge/Blog-zzjoey.com-lightgray.svg?style=for-the-badge&link=https://zzjoey.com)](https://zzjoey.com)
 
+### Open Source
+
+<table>
+  <tr>
+    <td width="64"><a href="https://github.com/zzjoey/ZoneMap"><img src="https://raw.githubusercontent.com/zzjoey/ZoneMap/main/public/logo.png" width="52" height="52" style="border-radius:12px"/></a></td>
+    <td><strong><a href="https://github.com/zzjoey/ZoneMap">ZoneMap</a></strong> &nbsp;·&nbsp; <a href="https://zonemap.live">zonemap.live</a><br/>Free world clock and timezone converter</td>
+  </tr>
+  <tr>
+    <td width="64"><a href="https://github.com/zzjoey/DownXV"><img src="https://raw.githubusercontent.com/zzjoey/DownXV/main/assets/logo.png" width="52" height="52" style="border-radius:12px"/></a></td>
+    <td><strong><a href="https://github.com/zzjoey/DownXV">DownXV</a></strong> &nbsp;·&nbsp; <a href="https://downxv.zzjoey.com">downxv.zzjoey.com</a><br/>MacOS app to download X videos, auto-fill cookie</td>
+  </tr>
+</table>
 
 ## Sitting at the intersection of **technology and business**, focus on building great **products**.
 
