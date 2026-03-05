@@ -16,7 +16,7 @@
   <tr>
     <td width="60"><a href="https://github.com/zzjoey/DownXV"><img src="https://raw.githubusercontent.com/zzjoey/DownXV/main/assets/logo.png" width="48" height="48"/></a></td>
     <td><a href="https://github.com/zzjoey/DownXV"><strong>DownXV</strong></a></td>
-    <td><a href="https://downxv.zzjoey.com">downxv.zzjoey.com</a></td>
+    <td><a href="https://downxv.pages.dev">downxv.pages.dev</a></td>
     <td>MacOS app to download X videos in post</td>
   </tr>
 </table>
@@ -45,6 +45,7 @@ For a human: **Success = Determination + Resilient + Discernment + Execution + (
 I’m still learning - and exploring - what it truly takes to build a great company, and a great life.
 
 <img src="https://github.com/zzjoey/zzjoey/blob/master/assets/Google_all_in_2.png?raw=true" alt="all_in" width="70%"/>
+
 
 
 
