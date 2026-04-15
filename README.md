@@ -8,13 +8,13 @@
 
 <table>
   <tr>
-    <td width="60"><a href="https://github.com/zzjoey/ZoneMap"><img src="https://raw.githubusercontent.com/zzjoey/ZoneMap/main/public/logo.png" width="48" height="48"/></a></td>
+    <td width="60"><a href="https://github.com/zzjoey/ZoneMap"><img src="https://raw.githubusercontent.com/zzjoey/ZoneMap/main/public/logo.png" width="48"/></a></td>
     <td><a href="https://github.com/zzjoey/ZoneMap"><strong>ZoneMap</strong></a></td>
     <td><a href="https://zonemap.live">zonemap.live</a></td>
     <td>Free world clock and timezone converter</td>
   </tr>
   <tr>
-    <td width="60"><a href="https://github.com/zzjoey/DownXV"><img src="https://raw.githubusercontent.com/zzjoey/DownXV/main/assets/logo.png" width="48" height="48"/></a></td>
+    <td width="60"><a href="https://github.com/zzjoey/DownXV"><img src="https://raw.githubusercontent.com/zzjoey/DownXV/main/assets/logo.png" width="48"/></a></td>
     <td><a href="https://github.com/zzjoey/DownXV"><strong>DownXV</strong></a></td>
     <td><a href="https://downxv.pages.dev">downxv.pages.dev</a></td>
     <td>MacOS app to download X videos in post</td>
